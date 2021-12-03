@@ -20,7 +20,6 @@ jobs:
           name: "Say hello"
           command: "echo Hello, World!"
 
- jobs:
   build:
     executor:
       name: node/default
